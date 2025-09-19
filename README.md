@@ -3,6 +3,6 @@
 ### Technologies I Use
 - Language : `JavaScript / TypeScript, Python, Rust, Java.`
 - Frontend : `Three.js, React Three Fiber, React, Tailwind.`
-- Backend  : `React, Streamlit, Django, Flask.`
+- Backend  : `Streamlit, Django, Flask.`
 - Database : `MongoDB, SQLite, MYSQL`
 - Operating System: `Linux (Server Administration)`
